@@ -1,5 +1,5 @@
 # Landslide-Susceptibility-Assessment-Tool
-Landslide-Susceptibility-Assessment-Tool.tbx file was created for ArcGIS. 
+Landslide-Susceptibility-Assessment-Tool.tbx file was created for ArcGIS software. 
 Landslide susceptibility assessment tool including 10 python script for ArcGIS software.
 Preparing_Data.py is used to prepare data for modelling. 
 Create_LSM&&Calculate_ROC.py is used to creates Landslide Susceptibility Map and calculates Area Under Curve (AUC) values with data including X-Y coordinate and probability fields. 
